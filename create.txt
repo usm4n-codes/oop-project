@@ -1,0 +1,9 @@
+Q1.WHAT IS STD
+1.STD	2.S	3.D	4.T
+Correct Option for Q1.1
+Q2.NAME
+1.USMAN	2.ALI	3.HAMZA	4.ALYAN
+Correct Option for Q2.1
+Q3.AGE
+1.11	2.18	3.19	4.20
+Correct Option for Q3.3
