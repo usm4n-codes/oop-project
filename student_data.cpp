@@ -432,7 +432,7 @@ void teacher::create_quiz(){
 void student::solve_quiz(){
     string  pen, complete ;
 		int CorrectAns, i,UserOption,answer[20] ;
-system ("cls") ;
+        system ("cls") ;
 			int linesprint = 1 ;
 			CorrectAns = 0 ;
 			ifstream ifs,ans;
